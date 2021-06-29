@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Hamza094\\UnitConversion\\": "src"
+            "Hamza094\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Hamza094\\UnitConversion\\Tests\\": "tests"
+            "Hamza094\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
