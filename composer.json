@@ -1,16 +1,16 @@
 {
-    "name": "vendor_slug/package_slug",
-    "description": ":package_description",
+    "name": "hamza094/unit_conversion",
+    "description": "Perform unit conversion",
     "keywords": [
-        ":vendor_name",
-        "package_slug"
+        "hamza094",
+        "unit_conversion"
     ],
-    "homepage": "https://github.com/vendor_slug/package_slug",
+    "homepage": "https://github.com/hamza094/unit_conversion",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "Hamza Ikram",
+            "email": "hamza_pisces@live.com",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "Hamza094\\UnitConversion\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "Hamza094\\UnitConversion\\Tests\\": "tests"
         }
     },
     "scripts": {
