@@ -1,7 +1,7 @@
 # Perform unit conversion
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/hamza094/unit_conversion.svg?style=flat-square)](https://packagist.org/packages/hamza094/unit_conversion)
-[![GitHub Tests Action Status](https://github.com/{hamza094}/{unit-conversion
+[![Build Status](https://github.com/{hamza094}/{unit-conversion
 }/workflows/{run-tests.yml}/badge.svg)](https://github.com/{hamza094}/{unit-conversion}/actions)
 [![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/hamza094/unit_conversion/Check%20&%20fix%20styling?label=code%20style)](https://github.com/hamza094/unit_conversion/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/hamza094/unit_conversion.svg?style=flat-square)](https://packagist.org/packages/hamza094/unit_conversion)
