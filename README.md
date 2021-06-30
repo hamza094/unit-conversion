@@ -1,14 +1,19 @@
-# Perform unit conversion
+# Perform unit conversions in PHP
 
 [![Stable Version](http://poser.pugx.org/hamza094/unit_conversion/v)](https://packagist.org/packages/hamza094/unit_conversion)
 [![Total Downloads](http://poser.pugx.org/hamza094/unit_conversion/downloads)](https://packagist.org/packages/hamza094/unit_conversion)
 [![Tests](https://github.com/hamza094/unit-conversion/actions/workflows/run-tests.yml/badge.svg)](https://github.com/hamza094/unit-conversion/actions/workflows/run-tests.yml)
 [![Check & fix styling](https://github.com/hamza094/unit-conversion/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/hamza094/unit-conversion/actions/workflows/php-cs-fixer.yml)
 
+This Package performs unit conversions.Right now only kg to lbs and celcius to farenheit is supported  
 
-## Installation
+Here how to use it:
 
-You can install the package via composer:
+```php
+$use Hamza094\UnitConversions\Weight;
+echo Weight::fromkilograms(100)->toLbs();
+``` 
+
 
 ```bash
 composer require hamza094/unit_conversion
