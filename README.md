@@ -1,9 +1,9 @@
 # Perform unit conversion
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/hamza094/unit_conversion.svg?style=flat-square)](https://packagist.org/packages/hamza094/unit_conversion)
+[![Stable Version](http://poser.pugx.org/hamza094/unit_conversion/v)](https://packagist.org/packages/hamza094/unit_conversion)
+[![Total Downloads](http://poser.pugx.org/hamza094/unit_conversion/downloads)](https://packagist.org/packages/hamza094/unit_conversion)
 [![Tests](https://github.com/hamza094/unit-conversion/actions/workflows/run-tests.yml/badge.svg)](https://github.com/hamza094/unit-conversion/actions/workflows/run-tests.yml)
 [![Check & fix styling](https://github.com/hamza094/unit-conversion/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/hamza094/unit-conversion/actions/workflows/php-cs-fixer.yml)
-[![Total Downloads](https://img.shields.io/packagist/dt/hamza094/unit_conversion.svg?style=flat-square)](https://packagist.org/packages/hamza094/unit_conversion)
 
 
 ## Installation
