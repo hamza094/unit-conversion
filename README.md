@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/hamza094/unit_conversion.svg?style=flat-square)](https://packagist.org/packages/hamza094/unit_conversion)
 [![Tests](https://github.com/hamza094/unit-conversion/actions/workflows/run-tests.yml/badge.svg)](https://github.com/hamza094/unit-conversion/actions/workflows/run-tests.yml)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/hamza094/unit_conversion/Check%20&%20fix%20styling?label=code%20style)](https://github.com/hamza094/unit_conversion/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
+[![Check & fix styling](https://github.com/hamza094/unit-conversion/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/hamza094/unit-conversion/actions/workflows/php-cs-fixer.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/hamza094/unit_conversion.svg?style=flat-square)](https://packagist.org/packages/hamza094/unit_conversion)
 
 
